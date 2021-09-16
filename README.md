@@ -1,5 +1,5 @@
 # Projeto SDS 4
-> Projeto criado na semana deve, utilizando Java 11 Spring Boot, React
+> Projeto criado na semana deve, utilizando Java 11 Spring Boot, React.
 
 ## Criado site de grafico de vendas.
 
@@ -8,9 +8,9 @@ https://dsvendas-mrgabus.netlify.app/
 
 ### ⚒️ Ferramentas
 
-Utilizado apenas Java 11, Spring Boot e React
-Netilify para  hospedar o site.
-Heroku para o banco de dados.
+- Utilizado apenas Java 11, Spring Boot e React
+- Netilify para hospedar. 
+- Heroku para o banco de dados.
 
 
 ### Sobre
